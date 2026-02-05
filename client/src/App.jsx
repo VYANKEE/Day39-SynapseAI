@@ -8,7 +8,7 @@ import {
 
 // --- CONFIG ---
 // Change this to your Render URL ONLY when you deploy backend. For now use localhost.
-const API_URL = "http://localhost:5000/generate-notes"; 
+const API_URL = "https://day39-synapseai.onrender.com/generate-notes"; 
 
 const App = () => {
   const [topic, setTopic] = useState("");
