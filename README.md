@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Project Overview
+   ## 🚀 Project Overview
 
 **Synapse AI** is a cutting-edge educational tool built during the **45 Days Coding Challenge (Day 39)**. It bridges the gap between raw information and structured knowledge. 
 
